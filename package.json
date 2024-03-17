@@ -1,0 +1,22 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "This a tool for shortning the URL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "npm",
+    "git"
+  ],
+  "author": "Liju Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "nanoid": "^5.0.6",
+    "nodemon": "^3.1.0",
+    "shortid": "^2.2.16"
+  }
+}
